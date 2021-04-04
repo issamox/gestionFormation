@@ -15,6 +15,10 @@ use Inertia\Inertia;
 |
 */
 
+
+Route::get('/courses',[\App\Http\Controllers\CourseController::class,'index'])->name('courses');
+
+
 Route::get('/', function () {
     return Inertia::render('Welcome', [
         'canLogin' => Route::has('login'),

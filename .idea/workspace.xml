@@ -159,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617485669244</updated>
-      <workItem from="1617485670963" duration="3424000" />
+      <workItem from="1617485670963" duration="8202000" />
     </task>
     <servers />
   </component>
@@ -171,5 +171,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="826" y="248" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1617488764209" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1617494165337">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1617494165337" />
   </component>
 </project>
